@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+    color: orange;
+}
+
+img{
+    float: left;
+    margin: 125px;
+    margin-bottom: 600px;
+    display: block;
+}
+
+a{
+        text-decoration: none;
+        background-color: orange;
+        color: black;
+}
+
+button{
+
+    display: block;
+    margin: auto;
+    width:100px ;
+    background-color: orange;
+ 
+}
+
+h1{
+    text-align: center;
+    color: black;
+    background-color: orange;
+}
+
+p{
+    margin-right: 40px;
+}
+
+ul{
+    border: 3px dotted orange ;
+    padding: 10px 40px ;
+
+    display: inline-block;
+}

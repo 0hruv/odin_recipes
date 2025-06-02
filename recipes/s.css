@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+    color: green;
+}
+
+img{
+    float: left;
+    margin: 125px;
+    margin-bottom: 600px;
+    display: block;
+}
+
+a{
+        text-decoration: none;
+        background-color: green;
+        color: black;
+}
+
+button{
+
+    display: block;
+    margin: auto;
+    width:100px ;
+    background-color: green;
+ 
+}
+
+h1{
+    text-align: center;
+    color: black;
+    background-color: green;
+}
+
+p{
+    margin-right: 40px;
+}
+
+ul{
+    border: 3px dotted green ;
+    padding: 10px 40px ;
+
+    display: inline-block;
+}
