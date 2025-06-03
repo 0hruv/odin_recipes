@@ -40,3 +40,8 @@ a{
 .samosa{
     background-color: green;
 }
+
+img{
+    display: block;
+    margin: auto;
+}
